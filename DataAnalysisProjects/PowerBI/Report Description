@@ -1,0 +1,13 @@
+This report is created based on the exercise given in CodeBasics You Tube Channel.  In this Channel, Dhaval very nicely explains about creating Power BI Dashboards.  
+To further explore he has suggested to enhance the PersonalFinanceDashboard with additional features.
+
+I have added followings new Sheets in it:
+
+IncomeVsSavingsVsExpenses : 
+This report helps to view the Income, Expenses and Savings as a Stacked Column Chart.  
+This will help us to look at the distribution of my Expense and Savings (against the earnings).  We can view this across the period of Jan 2018 till Jan 2021.
+As Income = Expenses + Savings. Our Income is represented as 50% in this Stacked Column Chart and Expenses & Savings together another 50%. 
+Just by glancing this itself we can see fluctuations in our Savings.
+
+In the above chart 
+AnalyzeDec19Expense:
