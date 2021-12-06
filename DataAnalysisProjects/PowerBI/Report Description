@@ -5,9 +5,23 @@ I have added followings new Sheets in it:
 
 IncomeVsSavingsVsExpenses : 
 This report helps to view the Income, Expenses and Savings as a Stacked Column Chart.  
-This will help us to look at the distribution of my Expense and Savings (against the earnings).  We can view this across the period of Jan 2018 till Jan 2021.
 As Income = Expenses + Savings. Our Income is represented as 50% in this Stacked Column Chart and Expenses & Savings together another 50%. 
+Hence, this will help us to look at the distribution of my Expense and Savings (against the income).  We can view this across the period of Jan 2018 till Jan 2021.
 Just by glancing this itself we can see fluctuations in our Savings.
 
-In the above chart 
+In the above chart we can notice that in Dec19 expense increased a lot. We can right click the expense bar and click Analyze -> Explain the increase. It brings another chart that
+provides more insights and helps us to quickly understand what happened. Data can be visualized in different charts between Nov and Dec19. By clicking + button there charts can
+be added on top of current chart.  Added charts in two different formats. Taken those two charts in another sheet with the name "AnalyzeDec19Expense".
+
+In the above chart we can notice that in Feb19 savings increased. We can right click the savings bar and click Analyze -> Explain the increase. It brings another chart that
+provides more insights and helps us to quickly understand what happened. Data can be visualized in different charts between Jan and Feb19. By clicking + button there charts can
+be added on top of current chart.  Added charts in two different formats. Taken those two charts in another sheet with the name "Feb19SavingsIncreaseAnalysis".
+
 AnalyzeDec19Expense:
+It helps to quickly understand that Grocerries, health and shopping increased.
+Second chart shows the exact amount. Grocerries increased from 8K to 10K, Health expenses increased from 1.5K to 3K, Shopping values increased from 1K to 2K
+
+
+Feb19SavingsIncreaseAnalysis:
+It helps to quickly understand that Liquid Cash, Fixed Deposit increased.
+Second chart shows the exact amount. Liquid Cash increased from -1 K to 1.5K,Fixed Deposit  increased from 0K to 2K
